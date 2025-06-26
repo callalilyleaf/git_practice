@@ -11,3 +11,5 @@ To unstatge a staged file: git reset file_name.filetype
 To unstage all staged files: git reset
 
 To check the current stage status: git status
+
+we are creating examples of using GIT!
