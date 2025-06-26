@@ -12,4 +12,6 @@ To unstage all staged files: git reset
 
 To check the current stage status: git status
 
+This is also a new line
+
 we are creating examples of using GIT!
